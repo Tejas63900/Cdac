@@ -10,12 +10,12 @@ class Date
  public Date(int dd,int mm,int yy);
  {
  this dd=dd;
- this mm=mm;
+ this mm=mm;fv5vv
  this yy=yy;
  }
- public void display()
+ public void display()-----
  {
- Systam.out.println(dd+"/"+mm+"/"+yy)
+ Systam.out.println(dd+"/"+mm+"/"+yy)------
  }
 }
 
