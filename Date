@@ -11,7 +11,7 @@ class Date
  {
  this dd=dd;
  this mm=mm;fv5vv
- this yy=yy;
+ this yy=yy123;
  }
  public void display()-----
  {
